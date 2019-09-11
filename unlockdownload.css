@@ -2,6 +2,10 @@
 * Basic styles
 */
 
+*/ Night mode */
+.night .onp-sociallocker-glass .onp-sociallocker-outer-wrap{background:#4a3838}
+.night .onp-sociallocker .onp-sociallocker-strong, .onp-sociallocker .onp-sociallocker-message, .onp-sociallocker .onp-sociallocker-timer, .onp-sociallocker .onp-sociallocker-error-title, .onp-sociallocker-error-text{color:#fff}
+
 /* locker text */
 .onp-sociallocker .onp-sociallocker-strong,
 .onp-sociallocker .onp-sociallocker-message, 
